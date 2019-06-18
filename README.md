@@ -1,1 +1,1 @@
-background-image: url(images/49.jpg)
+<img src="images/49.jpg">
