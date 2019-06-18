@@ -1,1 +1,1 @@
-<img src="images/100.png">
+ style="background-image: url(images/49.jpg);"
